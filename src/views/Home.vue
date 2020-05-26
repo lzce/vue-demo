@@ -8,7 +8,7 @@
             {{element.name}}
             <span class="badge">{{element.order}}</span>
           </li>
-        </transition-group>
+        </transition-group>  
       </draggable>
     </div>
 
