@@ -26,8 +26,8 @@ Vue.use(VueRouter)
     ]
   },
   {
-    path: '/demo2',
-    component: () => import('../views/Demo2.vue')
+    path: '/demo1',
+    component: () => import('../views/Demo1.vue')
   }
 ]
 
