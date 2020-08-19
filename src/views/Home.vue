@@ -50,6 +50,7 @@ const message = [
   "Sortablejs"
 ];
 
+// 这是 dev
 export default {
   name: "hello",
   components: {
