@@ -35,6 +35,7 @@
   </div>
 </template>
 <script>
+// 哈哈哈哈
 import draggable from "vuedraggable";
 const message = [
   "vue.draggable",
