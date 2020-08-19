@@ -9,6 +9,7 @@
 </template>
 
 <script>
+// 哈哈哈哈
 import Viewer from 'viewerjs';
 export default {
   name: 'Demo1',
