@@ -51,6 +51,8 @@ const message = [
 ];
 
 // 这是 dev
+// 这是dev1
+// 这还少master 分支的更新
 export default {
   name: "hello",
   components: {
